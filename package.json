@@ -1,0 +1,11 @@
+{
+  "name": "super-ultra-video-prompt-generator",
+  "version": "0.1.0",
+  "private": true,
+  "description": "An application to generate rich, detailed, and creative video prompts from a simple idea using the Gemini API. Users can specify style, mood, camera angles, and more to craft the perfect prompt for video generation AI.",
+  "dependencies": {
+    "@google/genai": "^1.25.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
